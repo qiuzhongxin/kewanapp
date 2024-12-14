@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		2224C5762D0DBFB700F171DC /* kewanicloud.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kewanicloud.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2224C5A32D0DD33F00F171DC /* kewanicloud.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kewanicloud.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		2224C5782D0DBFB700F171DC /* kewanicloud */ = {
+		2224C5A52D0DD33F00F171DC /* kewanicloud */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = kewanicloud;
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2224C5732D0DBFB700F171DC /* Frameworks */ = {
+		2224C5A02D0DD33F00F171DC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2224C56D2D0DBFB700F171DC = {
+		2224C59A2D0DD33E00F171DC = {
 			isa = PBXGroup;
 			children = (
-				2224C5782D0DBFB700F171DC /* kewanicloud */,
-				2224C5772D0DBFB700F171DC /* Products */,
+				2224C5A52D0DD33F00F171DC /* kewanicloud */,
+				2224C5A42D0DD33F00F171DC /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		2224C5772D0DBFB700F171DC /* Products */ = {
+		2224C5A42D0DD33F00F171DC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2224C5762D0DBFB700F171DC /* kewanicloud.app */,
+				2224C5A32D0DD33F00F171DC /* kewanicloud.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2224C5752D0DBFB700F171DC /* kewanicloud */ = {
+		2224C5A22D0DD33F00F171DC /* kewanicloud */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2224C5842D0DBFB900F171DC /* Build configuration list for PBXNativeTarget "kewanicloud" */;
+			buildConfigurationList = 2224C5B12D0DD34100F171DC /* Build configuration list for PBXNativeTarget "kewanicloud" */;
 			buildPhases = (
-				2224C5722D0DBFB700F171DC /* Sources */,
-				2224C5732D0DBFB700F171DC /* Frameworks */,
-				2224C5742D0DBFB700F171DC /* Resources */,
+				2224C59F2D0DD33F00F171DC /* Sources */,
+				2224C5A02D0DD33F00F171DC /* Frameworks */,
+				2224C5A12D0DD33F00F171DC /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				2224C5782D0DBFB700F171DC /* kewanicloud */,
+				2224C5A52D0DD33F00F171DC /* kewanicloud */,
 			);
 			name = kewanicloud;
 			packageProductDependencies = (
 			);
 			productName = kewanicloud;
-			productReference = 2224C5762D0DBFB700F171DC /* kewanicloud.app */;
+			productReference = 2224C5A32D0DD33F00F171DC /* kewanicloud.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		2224C56E2D0DBFB700F171DC /* Project object */ = {
+		2224C59B2D0DD33E00F171DC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1610;
 				LastUpgradeCheck = 1610;
 				TargetAttributes = {
-					2224C5752D0DBFB700F171DC = {
+					2224C5A22D0DD33F00F171DC = {
 						CreatedOnToolsVersion = 16.1;
 					};
 				};
 			};
-			buildConfigurationList = 2224C5712D0DBFB700F171DC /* Build configuration list for PBXProject "kewanicloud" */;
+			buildConfigurationList = 2224C59E2D0DD33E00F171DC /* Build configuration list for PBXProject "kewanicloud" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 2224C56D2D0DBFB700F171DC;
+			mainGroup = 2224C59A2D0DD33E00F171DC;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 2224C5772D0DBFB700F171DC /* Products */;
+			productRefGroup = 2224C5A42D0DD33F00F171DC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2224C5752D0DBFB700F171DC /* kewanicloud */,
+				2224C5A22D0DD33F00F171DC /* kewanicloud */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		2224C5742D0DBFB700F171DC /* Resources */ = {
+		2224C5A12D0DD33F00F171DC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		2224C5722D0DBFB700F171DC /* Sources */ = {
+		2224C59F2D0DD33F00F171DC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		2224C5822D0DBFB900F171DC /* Debug */ = {
+		2224C5AF2D0DD34100F171DC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		2224C5832D0DBFB900F171DC /* Release */ = {
+		2224C5B02D0DD34100F171DC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,7 +244,7 @@
 			};
 			name = Release;
 		};
-		2224C5852D0DBFB900F171DC /* Debug */ = {
+		2224C5B22D0DD34100F171DC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -273,7 +273,7 @@
 			};
 			name = Debug;
 		};
-		2224C5862D0DBFB900F171DC /* Release */ = {
+		2224C5B32D0DD34100F171DC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -305,25 +305,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2224C5712D0DBFB700F171DC /* Build configuration list for PBXProject "kewanicloud" */ = {
+		2224C59E2D0DD33E00F171DC /* Build configuration list for PBXProject "kewanicloud" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2224C5822D0DBFB900F171DC /* Debug */,
-				2224C5832D0DBFB900F171DC /* Release */,
+				2224C5AF2D0DD34100F171DC /* Debug */,
+				2224C5B02D0DD34100F171DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2224C5842D0DBFB900F171DC /* Build configuration list for PBXNativeTarget "kewanicloud" */ = {
+		2224C5B12D0DD34100F171DC /* Build configuration list for PBXNativeTarget "kewanicloud" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2224C5852D0DBFB900F171DC /* Debug */,
-				2224C5862D0DBFB900F171DC /* Release */,
+				2224C5B22D0DD34100F171DC /* Debug */,
+				2224C5B32D0DD34100F171DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 2224C56E2D0DBFB700F171DC /* Project object */;
+	rootObject = 2224C59B2D0DD33E00F171DC /* Project object */;
 }
