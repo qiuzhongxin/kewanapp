@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		2224C5A32D0DD33F00F171DC /* kewanicloud.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kewanicloud.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		223B7E492D0DEDF3002DD53C /* IcloudTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IcloudTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		2224C5A52D0DD33F00F171DC /* kewanicloud */ = {
+		223B7E4B2D0DEDF3002DD53C /* IcloudTest */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = kewanicloud;
+			path = IcloudTest;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2224C5A02D0DD33F00F171DC /* Frameworks */ = {
+		223B7E462D0DEDF3002DD53C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2224C59A2D0DD33E00F171DC = {
+		223B7E402D0DEDF3002DD53C = {
 			isa = PBXGroup;
 			children = (
-				2224C5A52D0DD33F00F171DC /* kewanicloud */,
-				2224C5A42D0DD33F00F171DC /* Products */,
+				223B7E4B2D0DEDF3002DD53C /* IcloudTest */,
+				223B7E4A2D0DEDF3002DD53C /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		2224C5A42D0DD33F00F171DC /* Products */ = {
+		223B7E4A2D0DEDF3002DD53C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2224C5A32D0DD33F00F171DC /* kewanicloud.app */,
+				223B7E492D0DEDF3002DD53C /* IcloudTest.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2224C5A22D0DD33F00F171DC /* kewanicloud */ = {
+		223B7E482D0DEDF3002DD53C /* IcloudTest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2224C5B12D0DD34100F171DC /* Build configuration list for PBXNativeTarget "kewanicloud" */;
+			buildConfigurationList = 223B7E572D0DEDF5002DD53C /* Build configuration list for PBXNativeTarget "IcloudTest" */;
 			buildPhases = (
-				2224C59F2D0DD33F00F171DC /* Sources */,
-				2224C5A02D0DD33F00F171DC /* Frameworks */,
-				2224C5A12D0DD33F00F171DC /* Resources */,
+				223B7E452D0DEDF3002DD53C /* Sources */,
+				223B7E462D0DEDF3002DD53C /* Frameworks */,
+				223B7E472D0DEDF3002DD53C /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				2224C5A52D0DD33F00F171DC /* kewanicloud */,
+				223B7E4B2D0DEDF3002DD53C /* IcloudTest */,
 			);
-			name = kewanicloud;
+			name = IcloudTest;
 			packageProductDependencies = (
 			);
-			productName = kewanicloud;
-			productReference = 2224C5A32D0DD33F00F171DC /* kewanicloud.app */;
+			productName = IcloudTest;
+			productReference = 223B7E492D0DEDF3002DD53C /* IcloudTest.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		2224C59B2D0DD33E00F171DC /* Project object */ = {
+		223B7E412D0DEDF3002DD53C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1610;
 				LastUpgradeCheck = 1610;
 				TargetAttributes = {
-					2224C5A22D0DD33F00F171DC = {
+					223B7E482D0DEDF3002DD53C = {
 						CreatedOnToolsVersion = 16.1;
 					};
 				};
 			};
-			buildConfigurationList = 2224C59E2D0DD33E00F171DC /* Build configuration list for PBXProject "kewanicloud" */;
+			buildConfigurationList = 223B7E442D0DEDF3002DD53C /* Build configuration list for PBXProject "IcloudTest" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 2224C59A2D0DD33E00F171DC;
+			mainGroup = 223B7E402D0DEDF3002DD53C;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 2224C5A42D0DD33F00F171DC /* Products */;
+			productRefGroup = 223B7E4A2D0DEDF3002DD53C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2224C5A22D0DD33F00F171DC /* kewanicloud */,
+				223B7E482D0DEDF3002DD53C /* IcloudTest */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		2224C5A12D0DD33F00F171DC /* Resources */ = {
+		223B7E472D0DEDF3002DD53C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		2224C59F2D0DD33F00F171DC /* Sources */ = {
+		223B7E452D0DEDF3002DD53C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		2224C5AF2D0DD34100F171DC /* Debug */ = {
+		223B7E552D0DEDF5002DD53C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		2224C5B02D0DD34100F171DC /* Release */ = {
+		223B7E562D0DEDF5002DD53C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,14 +244,14 @@
 			};
 			name = Release;
 		};
-		2224C5B22D0DD34100F171DC /* Debug */ = {
+		223B7E582D0DEDF5002DD53C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"kewanicloud/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"IcloudTest/Preview Content\"";
 				DEVELOPMENT_TEAM = ST6CC2S96X;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -265,7 +265,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = zhongxinqiu.kewanicloud;
+				PRODUCT_BUNDLE_IDENTIFIER = zhongxinqiu.IcloudTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -273,14 +273,14 @@
 			};
 			name = Debug;
 		};
-		2224C5B32D0DD34100F171DC /* Release */ = {
+		223B7E592D0DEDF5002DD53C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"kewanicloud/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"IcloudTest/Preview Content\"";
 				DEVELOPMENT_TEAM = ST6CC2S96X;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -294,7 +294,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = zhongxinqiu.kewanicloud;
+				PRODUCT_BUNDLE_IDENTIFIER = zhongxinqiu.IcloudTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -305,25 +305,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2224C59E2D0DD33E00F171DC /* Build configuration list for PBXProject "kewanicloud" */ = {
+		223B7E442D0DEDF3002DD53C /* Build configuration list for PBXProject "IcloudTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2224C5AF2D0DD34100F171DC /* Debug */,
-				2224C5B02D0DD34100F171DC /* Release */,
+				223B7E552D0DEDF5002DD53C /* Debug */,
+				223B7E562D0DEDF5002DD53C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2224C5B12D0DD34100F171DC /* Build configuration list for PBXNativeTarget "kewanicloud" */ = {
+		223B7E572D0DEDF5002DD53C /* Build configuration list for PBXNativeTarget "IcloudTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2224C5B22D0DD34100F171DC /* Debug */,
-				2224C5B32D0DD34100F171DC /* Release */,
+				223B7E582D0DEDF5002DD53C /* Debug */,
+				223B7E592D0DEDF5002DD53C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 2224C59B2D0DD33E00F171DC /* Project object */;
+	rootObject = 223B7E412D0DEDF3002DD53C /* Project object */;
 }

@@ -1,14 +1,14 @@
 //
-//  kewanicloudApp.swift
-//  kewanicloud
+//  IcloudTestApp.swift
+//  IcloudTest
 //
-//  Created by Zhongxin qiu on 2024/12/14.
+//  Created by Zhongxin qiu on 2024/12/15.
 //
 
 import SwiftUI
 
 @main
-struct kewanicloudApp: App {
+struct IcloudTestApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
