@@ -1,0 +1,2002 @@
+[
+{
+"id": "1",
+"english": "What's the matter?",
+"chinese": "怎么了？"
+},
+{
+"id": "2",
+"english": "I'm sorry to hear that.",
+"chinese": "听到这个消息我很难过。"
+},
+{
+"id": "3",
+"english": "It doesn't matter.",
+"chinese": "没关系。"
+},
+{
+"id": "4",
+"english": "How are you?",
+"chinese": "你好吗？"
+},
+{
+"id": "5",
+"english": "Nice to meet you.",
+"chinese": "很高兴认识你。"
+},
+{
+"id": "6",
+"english": "What's your name?",
+"chinese": "你叫什么名字？"
+},
+{
+"id": "7",
+"english": "My name is...",
+"chinese": "我的名字是..."
+},
+{
+"id": "8",
+"english": "Where are you from?",
+"chinese": "你来自哪里？"
+},
+{
+"id": "9",
+"english": "I'm from...",
+"chinese": "我来自..."
+},
+{
+"id": "10",
+"english": "How old are you?",
+"chinese": "你多大了？"
+},
+{
+"id": "11",
+"english": "I'm... years old.",
+"chinese": "我...岁了。"
+},
+{
+"id": "12",
+"english": "What's this?",
+"chinese": "这是什么？"
+},
+{
+"id": "13",
+"english": "This is...",
+"chinese": "这是..."
+},
+{
+"id": "14",
+"english": "What color is it?",
+"chinese": "它是什么颜色的？"
+},
+{
+"id": "15",
+"english": "It's...",
+"chinese": "它是..."
+},
+{
+"id": "16",
+"english": "Can you help me?",
+"chinese": "你能帮我吗？"
+},
+{
+"id": "17",
+"english": "Of course.",
+"chinese": "当然。"
+},
+{
+"id": "18",
+"english": "Thank you.",
+"chinese": "谢谢。"
+},
+{
+"id": "19",
+"english": "You're welcome.",
+"chinese": "不客气。"
+},
+{
+"id": "20",
+"english": "Excuse me.",
+"chinese": "打扰一下。"
+},
+{
+"id": "21",
+"english": "I don't know.",
+"chinese": "我不知道。"
+},
+{
+"id": "22",
+"english": "I think so.",
+"chinese": "我认为是的。"
+},
+{
+"id": "23",
+"english": "I don't think so.",
+"chinese": "我不这么认为。"
+},
+{
+"id": "24",
+"english": "What time is it?",
+"chinese": "现在几点了？"
+},
+{
+"id": "25",
+"english": "It's... o'clock.",
+"chinese": "现在是...点。"
+},
+{
+"id": "26",
+"english": "Where is the...?",
+"chinese": "...在哪里？"
+},
+{
+"id": "27",
+"english": "It's over there.",
+"chinese": "在那边。"
+},
+{
+"id": "28",
+"english": "How do you spell it?",
+"chinese": "怎么拼写？"
+},
+{
+"id": "29",
+"english": "Can you repeat that?",
+"chinese": "你能重复一遍吗？"
+},
+{
+"id": "30",
+"english": "What does it mean?",
+"chinese": "这是什么意思？"
+},
+{
+"id": "31",
+"english": "I agree.",
+"chinese": "我同意。"
+},
+{
+"id": "32",
+"english": "I disagree.",
+"chinese": "我不同意。"
+},
+{
+"id": "33",
+"english": "Let's go.",
+"chinese": "我们走吧。"
+},
+{
+"id": "34",
+"english": "Wait a minute.",
+"chinese": "等一下。"
+},
+{
+"id": "35",
+"english": "Hurry up!",
+"chinese": "快点！"
+},
+{
+"id": "36",
+"english": "Take care.",
+"chinese": "保重。"
+},
+{
+"id": "37",
+"english": "Good luck!",
+"chinese": "祝你好运！"
+},
+{
+"id": "38",
+"english": "Have a nice day!",
+"chinese": "祝你今天愉快！"
+},
+{
+"id": "39",
+"english": "See you later.",
+"chinese": "待会儿见。"
+},
+{
+"id": "40",
+"english": "Goodbye.",
+"chinese": "再见。"
+},
+{
+"id": "41",
+"english": "I love you.",
+"chinese": "我爱你。"
+},
+{
+"id": "42",
+"english": "I miss you.",
+"chinese": "我想你。"
+},
+{
+"id": "43",
+"english": "What's wrong?",
+"chinese": "怎么了？"
+},
+{
+"id": "44",
+"english": "I'm fine.",
+"chinese": "我很好。"
+},
+{
+"id": "45",
+"english": "I'm tired.",
+"chinese": "我累了。"
+},
+{
+"id": "46",
+"english": "I'm hungry.",
+"chinese": "我饿了。"
+},
+{
+"id": "47",
+"english": "I'm thirsty.",
+"chinese": "我渴了。"
+},
+{
+"id": "48",
+"english": "I'm bored.",
+"chinese": "我很无聊。"
+},
+{
+"id": "49",
+"english": "I'm excited.",
+"chinese": "我很兴奋。"
+},
+{
+"id": "50",
+"english": "I'm scared.",
+"chinese": "我很害怕。"
+},
+{
+"id": "51",
+"english": "What's up?",
+"chinese": "最近怎么样？"
+},
+{
+"id": "52",
+"english": "Long time no see.",
+"chinese": "好久不见。"
+},
+{
+"id": "53",
+"english": "How's it going?",
+"chinese": "最近如何？"
+},
+{
+"id": "54",
+"english": "What's new?",
+"chinese": "有什么新鲜事？"
+},
+{
+"id": "55",
+"english": "Same as usual.",
+"chinese": "和往常一样。"
+},
+{
+"id": "56",
+"english": "Not much.",
+"chinese": "没什么。"
+},
+{
+"id": "57",
+"english": "What's for dinner?",
+"chinese": "晚饭吃什么？"
+},
+{
+"id": "58",
+"english": "Let's eat.",
+"chinese": "我们吃饭吧。"
+},
+{
+"id": "59",
+"english": "I'm full.",
+"chinese": "我吃饱了。"
+},
+{
+"id": "60",
+"english": "It's delicious.",
+"chinese": "很好吃。"
+},
+{
+"id": "61",
+"english": "I don't like it.",
+"chinese": "我不喜欢。"
+},
+{
+"id": "62",
+"english": "Can I have some?",
+"chinese": "我能吃点吗？"
+},
+{
+"id": "63",
+"english": "Help yourself.",
+"chinese": "请自便。"
+},
+{
+"id": "64",
+"english": "What's your favorite food?",
+"chinese": "你最喜欢的食物是什么？"
+},
+{
+"id": "65",
+"english": "I love pizza.",
+"chinese": "我喜欢披萨。"
+},
+{
+"id": "66",
+"english": "I hate vegetables.",
+"chinese": "我讨厌蔬菜。"
+},
+{
+"id": "67",
+"english": "Let's go shopping.",
+"chinese": "我们去购物吧。"
+},
+{
+"id": "68",
+"english": "How much is it?",
+"chinese": "这个多少钱？"
+},
+{
+"id": "69",
+"english": "It's too expensive.",
+"chinese": "太贵了。"
+},
+{
+"id": "70",
+"english": "Can I try it on?",
+"chinese": "我能试穿吗？"
+},
+{
+"id": "71",
+"english": "It fits well.",
+"chinese": "很合身。"
+},
+{
+"id": "72",
+"english": "I'll take it.",
+"chinese": "我买了。"
+},
+{
+"id": "73",
+"english": "Do you have a smaller size?",
+"chinese": "有小一号的吗？"
+},
+{
+"id": "74",
+"english": "What's your size?",
+"chinese": "你穿什么尺码？"
+},
+{
+"id": "75",
+"english": "I wear size...",
+"chinese": "我穿...号。"
+},
+{
+"id": "76",
+"english": "Let's go to the park.",
+"chinese": "我们去公园吧。"
+},
+{
+"id": "77",
+"english": "It's a beautiful day.",
+"chinese": "今天天气真好。"
+},
+{
+"id": "78",
+"english": "Let's play soccer.",
+"chinese": "我们踢足球吧。"
+},
+{
+"id": "79",
+"english": "I'm good at basketball.",
+"chinese": "我擅长篮球。"
+},
+{
+"id": "80",
+"english": "I'm not good at swimming.",
+"chinese": "我不擅长游泳。"
+},
+{
+"id": "81",
+"english": "Let's take a break.",
+"chinese": "我们休息一下吧。"
+},
+{
+"id": "82",
+"english": "I'm exhausted.",
+"chinese": "我累坏了。"
+},
+{
+"id": "83",
+"english": "Let's go home.",
+"chinese": "我们回家吧。"
+},
+{
+"id": "84",
+"english": "What's your plan for the weekend?",
+"chinese": "你周末有什么计划？"
+},
+{
+"id": "85",
+"english": "I'm going to the movies.",
+"chinese": "我要去看电影。"
+},
+{
+"id": "86",
+"english": "I'm staying home.",
+"chinese": "我待在家里。"
+},
+{
+"id": "87",
+"english": "Let's hang out.",
+"chinese": "我们出去玩吧。"
+},
+{
+"id": "88",
+"english": "I'm busy.",
+"chinese": "我很忙。"
+},
+{
+"id": "89",
+"english": "I'm free tomorrow.",
+"chinese": "我明天有空。"
+},
+{
+"id": "90",
+"english": "What's your hobby?",
+"chinese": "你的爱好是什么？"
+},
+{
+"id": "91",
+"english": "I like reading.",
+"chinese": "我喜欢阅读。"
+},
+{
+"id": "92",
+"english": "I enjoy playing video games.",
+"chinese": "我喜欢玩电子游戏。"
+},
+{
+"id": "93",
+"english": "I love traveling.",
+"chinese": "我喜欢旅行。"
+},
+{
+"id": "94",
+"english": "What's your dream?",
+"chinese": "你的梦想是什么？"
+},
+{
+"id": "95",
+"english": "I want to be a doctor.",
+"chinese": "我想成为一名医生。"
+},
+{
+"id": "96",
+"english": "I hope to travel the world.",
+"chinese": "我希望环游世界。"
+},
+{
+"id": "97",
+"english": "What's your favorite subject?",
+"chinese": "你最喜欢的科目是什么？"
+},
+{
+"id": "98",
+"english": "I like math.",
+"chinese": "我喜欢数学。"
+},
+{
+"id": "99",
+"english": "I hate history.",
+"chinese": "我讨厌历史。"
+},
+{
+"id": "100",
+"english": "I need to study.",
+"chinese": "我需要学习。"
+},
+{
+"id": "101",
+"english": "I have a test tomorrow.",
+"chinese": "我明天有考试。"
+},
+{
+"id": "102",
+"english": "Good luck on your test.",
+"chinese": "祝你考试顺利。"
+},
+{
+"id": "103",
+"english": "I passed the exam.",
+"chinese": "我通过了考试。"
+},
+{
+"id": "104",
+"english": "I failed the test.",
+"chinese": "我考试没及格。"
+},
+{
+"id": "105",
+"english": "Let's practice English.",
+"chinese": "我们练习英语吧。"
+},
+{
+"id": "106",
+"english": "I need to improve my English.",
+"chinese": "我需要提高我的英语。"
+},
+{
+"id": "107",
+"english": "Can you speak slowly?",
+"chinese": "你能说慢点吗？"
+},
+{
+"id": "108",
+"english": "I don't understand.",
+"chinese": "我不明白。"
+},
+{
+"id": "109",
+"english": "Can you explain it again?",
+"chinese": "你能再解释一遍吗？"
+},
+{
+"id": "110",
+"english": "What does this word mean?",
+"chinese": "这个词是什么意思？"
+},
+{
+"id": "111",
+"english": "How do you pronounce this?",
+"chinese": "这个怎么发音？"
+},
+{
+"id": "112",
+"english": "I need a dictionary.",
+"chinese": "我需要一本字典。"
+},
+{
+"id": "113",
+"english": "Let's watch a movie.",
+"chinese": "我们看电影吧。"
+},
+{
+"id": "114",
+"english": "What's your favorite movie?",
+"chinese": "你最喜欢的电影是什么？"
+},
+{
+"id": "115",
+"english": "I love action movies.",
+"chinese": "我喜欢动作片。"
+},
+{
+"id": "116",
+"english": "I don't like horror movies.",
+"chinese": "我不喜欢恐怖片。"
+},
+{
+"id": "117",
+"english": "Let's listen to music.",
+"chinese": "我们听音乐吧。"
+},
+{
+"id": "118",
+"english": "What's your favorite song?",
+"chinese": "你最喜欢的歌是什么？"
+},
+{
+"id": "119",
+"english": "I love pop music.",
+"chinese": "我喜欢流行音乐。"
+},
+{
+"id": "120",
+"english": "I hate heavy metal.",
+"chinese": "我讨厌重金属音乐。"
+},
+{
+"id": "121",
+"english": "Let's dance.",
+"chinese": "我们跳舞吧。"
+},
+{
+"id": "122",
+"english": "I can't dance.",
+"chinese": "我不会跳舞。"
+},
+{
+"id": "123",
+"english": "Let's sing a song.",
+"chinese": "我们唱首歌吧。"
+},
+{
+"id": "124",
+"english": "I have a bad voice.",
+"chinese": "我唱歌不好听。"
+},
+{
+"id": "125",
+"english": "Let's take a photo.",
+"chinese": "我们拍张照片吧。"
+},
+{
+"id": "126",
+"english": "Smile!",
+"chinese": "笑一个！"
+},
+{
+"id": "127",
+"english": "Say cheese!",
+"chinese": "说茄子！"
+},
+{
+"id": "128",
+"english": "I look terrible in this photo.",
+"chinese": "我在这张照片里看起来很糟糕。"
+},
+{
+"id": "129",
+"english": "Let's go to the beach.",
+"chinese": "我们去海滩吧。"
+},
+{
+"id": "130",
+"english": "I love the ocean.",
+"chinese": "我喜欢大海。"
+},
+{
+"id": "131",
+"english": "I'm afraid of water.",
+"chinese": "我怕水。"
+},
+{
+"id": "132",
+"english": "Let's build a sandcastle.",
+"chinese": "我们堆个沙堡吧。"
+},
+{
+"id": "133",
+"english": "I got sunburned.",
+"chinese": "我晒伤了。"
+},
+{
+"id": "134",
+"english": "Let's go camping.",
+"chinese": "我们去露营吧。"
+},
+{
+"id": "135",
+"english": "I love nature.",
+"chinese": "我喜欢大自然。"
+},
+{
+"id": "136",
+"english": "I'm scared of bugs.",
+"chinese": "我怕虫子。"
+},
+{
+"id": "137",
+"english": "Let's make a fire.",
+"chinese": "我们生火吧。"
+},
+{
+"id": "138",
+"english": "It's getting dark.",
+"chinese": "天快黑了。"
+},
+{
+"id": "139",
+"english": "Let's go hiking.",
+"chinese": "我们去徒步吧。"
+},
+{
+"id": "140",
+"english": "I love the mountains.",
+"chinese": "我喜欢山。"
+},
+{
+"id": "141",
+"english": "I'm out of breath.",
+"chinese": "我喘不过气了。"
+},
+{
+"id": "142",
+"english": "Let's take a rest.",
+"chinese": "我们休息一下吧。"
+},
+{
+"id": "143",
+"english": "I'm thirsty.",
+"chinese": "我渴了。"
+},
+{
+"id": "144",
+"english": "Let's drink some water.",
+"chinese": "我们喝点水吧。"
+},
+{
+"id": "145",
+"english": "I'm hungry.",
+"chinese": "我饿了。"
+},
+{
+"id": "146",
+"english": "Let's have a snack.",
+"chinese": "我们吃点零食吧。"
+},
+{
+"id": "147",
+"english": "I'm tired.",
+"chinese": "我累了。"
+},
+{
+"id": "148",
+"english": "Let's take a nap.",
+"chinese": "我们小睡一会儿吧。"
+},
+{
+"id": "149",
+"english": "I can't sleep.",
+"chinese": "我睡不着。"
+},
+{
+"id": "150",
+"english": "I had a nightmare.",
+"chinese": "我做了个噩梦。"
+},
+{
+"id": "151",
+"english": "Let's go to bed.",
+"chinese": "我们睡觉吧。"
+},
+{
+"id": "152",
+"english": "Good night.",
+"chinese": "晚安。"
+},
+{
+"id": "153",
+"english": "Sweet dreams.",
+"chinese": "做个好梦。"
+},
+{
+"id": "154",
+"english": "I overslept.",
+"chinese": "我睡过头了。"
+},
+{
+"id": "155",
+"english": "I'm late.",
+"chinese": "我迟到了。"
+},
+{
+"id": "156",
+"english": "Hurry up!",
+"chinese": "快点！"
+},
+{
+"id": "157",
+"english": "I'm on my way.",
+"chinese": "我在路上。"
+},
+{
+"id": "158",
+"english": "I'm lost.",
+"chinese": "我迷路了。"
+},
+{
+"id": "159",
+"english": "Can you help me?",
+"chinese": "你能帮我吗？"
+},
+{
+"id": "160",
+"english": "Where is the nearest...?",
+"chinese": "最近的...在哪里？"
+},
+{
+"id": "161",
+"english": "How far is it?",
+"chinese": "有多远？"
+},
+{
+"id": "162",
+"english": "It's not far.",
+"chinese": "不远。"
+},
+{
+"id": "163",
+"english": "It's quite far.",
+"chinese": "挺远的。"
+},
+{
+"id": "164",
+"english": "Let's take a taxi.",
+"chinese": "我们打车吧。"
+},
+{
+"id": "165",
+"english": "How much is the fare?",
+"chinese": "车费多少钱？"
+},
+{
+"id": "166",
+"english": "Keep the change.",
+"chinese": "不用找零了。"
+},
+{
+"id": "167",
+"english": "Let's walk.",
+"chinese": "我们走路吧。"
+},
+{
+"id": "168",
+"english": "It's a short walk.",
+"chinese": "走几步就到了。"
+},
+{
+"id": "169",
+"english": "I'm tired of walking.",
+"chinese": "我走累了。"
+},
+{
+"id": "170",
+"english": "Let's take a break.",
+"chinese": "我们休息一下吧。"
+},
+{
+"id": "171",
+"english": "I need to sit down.",
+"chinese": "我需要坐下来。"
+},
+{
+"id": "172",
+"english": "I'm thirsty.",
+"chinese": "我渴了。"
+},
+{
+"id": "173",
+"english": "Let's get a drink.",
+"chinese": "我们喝点东西吧。"
+},
+{
+"id": "174",
+"english": "I'm hungry.",
+"chinese": "我饿了。"
+},
+{
+"id": "175",
+"english": "Let's grab a bite.",
+"chinese": "我们吃点东西吧。"
+},
+{
+"id": "176",
+"english": "I'm full.",
+"chinese": "我吃饱了。"
+},
+{
+"id": "177",
+"english": "Let's go home.",
+"chinese": "我们回家吧。"
+},
+{
+"id": "178",
+"english": "I'm exhausted.",
+"chinese": "我累坏了。"
+},
+{
+"id": "179",
+"english": "I need to rest.",
+"chinese": "我需要休息。"
+},
+{
+"id": "180",
+"english": "Let's call it a day.",
+"chinese": "今天就到这里吧。"
+},
+{
+"id": "181",
+"english": "I had a great time.",
+"chinese": "我玩得很开心。"
+},
+{
+"id": "182",
+"english": "Let's do it again.",
+"chinese": "我们下次再约。"
+},
+{
+"id": "183",
+"english": "I'm looking forward to it.",
+"chinese": "我很期待。"
+},
+{
+"id": "184",
+"english": "I can't wait.",
+"chinese": "我等不及了。"
+},
+{
+"id": "185",
+"english": "It's been a long day.",
+"chinese": "今天真是漫长的一天。"
+},
+{
+"id": "186",
+"english": "I need to relax.",
+"chinese": "我需要放松一下。"
+},
+{
+"id": "187",
+"english": "Let's watch TV.",
+"chinese": "我们看电视吧。"
+},
+{
+"id": "188",
+"english": "What's on TV?",
+"chinese": "电视上在播什么？"
+},
+{
+"id": "189",
+"english": "I don't like this show.",
+"chinese": "我不喜欢这个节目。"
+},
+{
+"id": "190",
+"english": "Let's change the channel.",
+"chinese": "我们换个频道吧。"
+},
+{
+"id": "191",
+"english": "I'm bored.",
+"chinese": "我很无聊。"
+},
+{
+"id": "192",
+"english": "Let's play a game.",
+"chinese": "我们玩个游戏吧。"
+},
+{
+"id": "193",
+"english": "I'm not in the mood.",
+"chinese": "我没心情。"
+},
+{
+"id": "194",
+"english": "Let's talk.",
+"chinese": "我们聊聊天吧。"
+},
+{
+"id": "195",
+"english": "What's on your mind?",
+"chinese": "你在想什么？"
+},
+{
+"id": "196",
+"english": "I'm worried.",
+"chinese": "我很担心。"
+},
+{
+"id": "197",
+"english": "Don't worry.",
+"chinese": "别担心。"
+},
+{
+"id": "198",
+"english": "Everything will be fine.",
+"chinese": "一切都会好起来的。"
+},
+{
+"id": "199",
+"english": "I hope so.",
+"chinese": "希望如此。"
+},
+{
+"id": "200",
+"english": "Take it easy.",
+"chinese": "放轻松。"
+},
+{
+"id": "201",
+"english": "What's the weather like?",
+"chinese": "天气怎么样？"
+},
+{
+"id": "202",
+"english": "It's sunny.",
+"chinese": "天气晴朗。"
+},
+{
+"id": "203",
+"english": "It's raining.",
+"chinese": "在下雨。"
+},
+{
+"id": "204",
+"english": "It's snowing.",
+"chinese": "在下雪。"
+},
+{
+"id": "205",
+"english": "It's windy.",
+"chinese": "风很大。"
+},
+{
+"id": "206",
+"english": "It's cloudy.",
+"chinese": "多云。"
+},
+{
+"id": "207",
+"english": "It's hot.",
+"chinese": "天气很热。"
+},
+{
+"id": "208",
+"english": "It's cold.",
+"chinese": "天气很冷。"
+},
+{
+"id": "209",
+"english": "What's the temperature?",
+"chinese": "温度是多少？"
+},
+{
+"id": "210",
+"english": "It's... degrees.",
+"chinese": "温度是...度。"
+},
+{
+"id": "211",
+"english": "I need a jacket.",
+"chinese": "我需要一件外套。"
+},
+{
+"id": "212",
+"english": "I need an umbrella.",
+"chinese": "我需要一把伞。"
+},
+{
+"id": "213",
+"english": "Let's stay indoors.",
+"chinese": "我们待在室内吧。"
+},
+{
+"id": "214",
+"english": "Let's go outside.",
+"chinese": "我们出去吧。"
+},
+{
+"id": "215",
+"english": "I love sunny days.",
+"chinese": "我喜欢晴天。"
+},
+{
+"id": "216",
+"english": "I hate rainy days.",
+"chinese": "我讨厌雨天。"
+},
+{
+"id": "217",
+"english": "What's your favorite season?",
+"chinese": "你最喜欢的季节是什么？"
+},
+{
+"id": "218",
+"english": "I love spring.",
+"chinese": "我喜欢春天。"
+},
+{
+"id": "219",
+"english": "I hate winter.",
+"chinese": "我讨厌冬天。"
+},
+{
+"id": "220",
+"english": "Let's go skiing.",
+"chinese": "我们去滑雪吧。"
+},
+{
+"id": "221",
+"english": "I'm not good at skiing.",
+"chinese": "我不擅长滑雪。"
+},
+{
+"id": "222",
+"english": "Let's build a snowman.",
+"chinese": "我们堆个雪人吧。"
+},
+{
+"id": "223",
+"english": "I'm freezing.",
+"chinese": "我冻僵了。"
+},
+{
+"id": "224",
+"english": "Let's warm up.",
+"chinese": "我们暖和一下吧。"
+},
+{
+"id": "225",
+"english": "I need a hot drink.",
+"chinese": "我需要一杯热饮。"
+},
+{
+"id": "226",
+"english": "Let's have some tea.",
+"chinese": "我们喝点茶吧。"
+},
+{
+"id": "227",
+"english": "I prefer coffee.",
+"chinese": "我更喜欢咖啡。"
+},
+{
+"id": "228",
+"english": "Let's go to the café.",
+"chinese": "我们去咖啡馆吧。"
+},
+{
+"id": "229",
+"english": "I need some sugar.",
+"chinese": "我需要一些糖。"
+},
+{
+"id": "230",
+"english": "I don't like milk.",
+"chinese": "我不喜欢牛奶。"
+},
+{
+"id": "231",
+"english": "Let's order something.",
+"chinese": "我们点些东西吧。"
+},
+{
+"id": "232",
+"english": "What do you recommend?",
+"chinese": "你推荐什么？"
+},
+{
+"id": "233",
+"english": "I'll have the same.",
+"chinese": "我要一样的。"
+},
+{
+"id": "234",
+"english": "Let's share.",
+"chinese": "我们分享吧。"
+},
+{
+"id": "235",
+"english": "It's my treat.",
+"chinese": "我请客。"
+},
+{
+"id": "236",
+"english": "Let's split the bill.",
+"chinese": "我们AA制吧。"
+},
+{
+"id": "237",
+"english": "I'm on a diet.",
+"chinese": "我在节食。"
+},
+{
+"id": "238",
+"english": "I need to eat healthy.",
+"chinese": "我需要健康饮食。"
+},
+{
+"id": "239",
+"english": "Let's go to the gym.",
+"chinese": "我们去健身房吧。"
+},
+{
+"id": "240",
+"english": "I need to exercise.",
+"chinese": "我需要锻炼。"
+},
+{
+"id": "241",
+"english": "I'm out of shape.",
+"chinese": "我身体不好。"
+},
+{
+"id": "242",
+"english": "Let's jog.",
+"chinese": "我们慢跑吧。"
+},
+{
+"id": "243",
+"english": "I need to lose weight.",
+"chinese": "我需要减肥。"
+},
+{
+"id": "244",
+"english": "I need to gain weight.",
+"chinese": "我需要增重。"
+},
+{
+"id": "245",
+"english": "Let's do yoga.",
+"chinese": "我们做瑜伽吧。"
+},
+{
+"id": "246",
+"english": "I need to relax.",
+"chinese": "我需要放松。"
+},
+{
+"id": "247",
+"english": "Let's meditate.",
+"chinese": "我们冥想吧。"
+},
+{
+"id": "248",
+"english": "I need to focus.",
+"chinese": "我需要集中注意力。"
+},
+{
+"id": "249",
+"english": "Let's take a deep breath.",
+"chinese": "我们深呼吸一下。"
+},
+{
+"id": "250",
+"english": "I feel stressed.",
+"chinese": "我感到压力很大。"
+},
+{
+"id": "251",
+"english": "Let's talk about it.",
+"chinese": "我们谈谈吧。"
+},
+{
+"id": "252",
+"english": "I need your advice.",
+"chinese": "我需要你的建议。"
+},
+{
+"id": "253",
+"english": "What do you think?",
+"chinese": "你怎么看？"
+},
+{
+"id": "254",
+"english": "I agree with you.",
+"chinese": "我同意你的看法。"
+},
+{
+"id": "255",
+"english": "I disagree.",
+"chinese": "我不同意。"
+},
+{
+"id": "256",
+"english": "Let's compromise.",
+"chinese": "我们折中一下吧。"
+},
+{
+"id": "257",
+"english": "I need some time to think.",
+"chinese": "我需要时间考虑一下。"
+},
+{
+"id": "258",
+"english": "Let's make a decision.",
+"chinese": "我们做个决定吧。"
+},
+{
+"id": "259",
+"english": "I'm not sure.",
+"chinese": "我不确定。"
+},
+{
+"id": "260",
+"english": "Let's try it.",
+"chinese": "我们试试吧。"
+},
+{
+"id": "261",
+"english": "I'm scared to fail.",
+"chinese": "我害怕失败。"
+},
+{
+"id": "262",
+"english": "Don't be afraid.",
+"chinese": "别害怕。"
+},
+{
+"id": "263",
+"english": "You can do it.",
+"chinese": "你能做到的。"
+},
+{
+"id": "264",
+"english": "I believe in you.",
+"chinese": "我相信你。"
+},
+{
+"id": "265",
+"english": "Let's give it a shot.",
+"chinese": "我们试试看吧。"
+},
+{
+"id": "266",
+"english": "I need your support.",
+"chinese": "我需要你的支持。"
+},
+{
+"id": "267",
+"english": "Let's work together.",
+"chinese": "我们一起努力吧。"
+},
+{
+"id": "268",
+"english": "I need a break.",
+"chinese": "我需要休息一下。"
+},
+{
+"id": "269",
+"english": "Let's take a vacation.",
+"chinese": "我们去度假吧。"
+},
+{
+"id": "270",
+"english": "I need to recharge.",
+"chinese": "我需要充电。"
+},
+{
+"id": "271",
+"english": "Let's go somewhere new.",
+"chinese": "我们去个新地方吧。"
+},
+{
+"id": "272",
+"english": "I need a change of scenery.",
+"chinese": "我需要换个环境。"
+},
+{
+"id": "273",
+"english": "Let's explore.",
+"chinese": "我们去探索吧。"
+},
+{
+"id": "274",
+"english": "I need an adventure.",
+"chinese": "我需要一次冒险。"
+},
+{
+"id": "275",
+"english": "Let's take a road trip.",
+"chinese": "我们去公路旅行吧。"
+},
+{
+"id": "276",
+"english": "I need to get away.",
+"chinese": "我需要离开一下。"
+},
+{
+"id": "277",
+"english": "Let's go to the mountains.",
+"chinese": "我们去山里吧。"
+},
+{
+"id": "278",
+"english": "I need some fresh air.",
+"chinese": "我需要一些新鲜空气。"
+},
+{
+"id": "279",
+"english": "Let's go to the beach.",
+"chinese": "我们去海滩吧。"
+},
+{
+"id": "280",
+"english": "I need to relax by the sea.",
+"chinese": "我需要在海边放松一下。"
+},
+{
+"id": "281",
+"english": "Let's go camping.",
+"chinese": "我们去露营吧。"
+},
+{
+"id": "282",
+"english": "I need to connect with nature.",
+"chinese": "我需要与大自然接触。"
+},
+{
+"id": "283",
+"english": "Let's go hiking.",
+"chinese": "我们去徒步吧。"
+},
+{
+"id": "284",
+"english": "I need to challenge myself.",
+"chinese": "我需要挑战自己。"
+},
+{
+"id": "285",
+"english": "Let's climb a mountain.",
+"chinese": "我们去爬山吧。"
+},
+{
+"id": "286",
+"english": "I need to push my limits.",
+"chinese": "我需要突破自己的极限。"
+},
+{
+"id": "287",
+"english": "Let's go kayaking.",
+"chinese": "我们去划皮艇吧。"
+},
+{
+"id": "288",
+"english": "I need to try something new.",
+"chinese": "我需要尝试新事物。"
+},
+{
+"id": "289",
+"english": "Let's go scuba diving.",
+"chinese": "我们去潜水吧。"
+},
+{
+"id": "290",
+"english": "I need to face my fears.",
+"chinese": "我需要面对我的恐惧。"
+},
+{
+"id": "291",
+"english": "Let's go skydiving.",
+"chinese": "我们去跳伞吧。"
+},
+{
+"id": "292",
+"english": "I need to live life to the fullest.",
+"chinese": "我需要活出精彩人生。"
+},
+{
+"id": "293",
+"english": "Let's make memories.",
+"chinese": "我们创造回忆吧。"
+},
+{
+"id": "294",
+"english": "I need to cherish every moment.",
+"chinese": "我需要珍惜每一刻。"
+},
+{
+"id": "295",
+"english": "Let's take lots of photos.",
+"chinese": "我们多拍些照片吧。"
+},
+{
+"id": "296",
+"english": "I need to document this.",
+"chinese": "我需要记录下这一刻。"
+},
+{
+"id": "297",
+"english": "Let's write a journal.",
+"chinese": "我们写日记吧。"
+},
+{
+"id": "298",
+"english": "I need to reflect on my life.",
+"chinese": "我需要反思我的生活。"
+},
+{
+"id": "299",
+"english": "Let's set some goals.",
+"chinese": "我们设定一些目标吧。"
+},
+{
+"id": "300",
+"english": "I need to plan for the future.",
+"chinese": "我需要为未来做计划。"
+},
+{
+"id": "301",
+"english": "Let's make a to-do list.",
+"chinese": "我们列个待办清单吧。"
+},
+{
+"id": "302",
+"english": "I need to stay organized.",
+"chinese": "我需要保持条理。"
+},
+{
+"id": "303",
+"english": "Let's prioritize.",
+"chinese": "我们分个优先级吧。"
+},
+{
+"id": "304",
+"english": "I need to focus on what's important.",
+"chinese": "我需要专注于重要的事情。"
+},
+{
+"id": "305",
+"english": "Let's eliminate distractions.",
+"chinese": "我们排除干扰吧。"
+},
+{
+"id": "306",
+"english": "I need to stay focused.",
+"chinese": "我需要保持专注。"
+},
+{
+"id": "307",
+"english": "Let's work smarter, not harder.",
+"chinese": "我们更聪明地工作，而不是更努力。"
+},
+{
+"id": "308",
+"english": "I need to be more efficient.",
+"chinese": "我需要更高效。"
+},
+{
+"id": "309",
+"english": "Let's delegate tasks.",
+"chinese": "我们分配任务吧。"
+},
+{
+"id": "310",
+"english": "I need to trust others.",
+"chinese": "我需要信任他人。"
+},
+{
+"id": "311",
+"english": "Let's collaborate.",
+"chinese": "我们合作吧。"
+},
+{
+"id": "312",
+"english": "I need to be a team player.",
+"chinese": "我需要成为团队的一员。"
+},
+{
+"id": "313",
+"english": "Let's communicate better.",
+"chinese": "我们更好地沟通吧。"
+},
+{
+"id": "314",
+"english": "I need to listen more.",
+"chinese": "我需要多倾听。"
+},
+{
+"id": "315",
+"english": "Let's be honest.",
+"chinese": "我们坦诚相待吧。"
+},
+{
+"id": "316",
+"english": "I need to be transparent.",
+"chinese": "我需要透明。"
+},
+{
+"id": "317",
+"english": "Let's build trust.",
+"chinese": "我们建立信任吧。"
+},
+{
+"id": "318",
+"english": "I need to be reliable.",
+"chinese": "我需要可靠。"
+},
+{
+"id": "319",
+"english": "Let's keep our promises.",
+"chinese": "我们遵守承诺吧。"
+},
+{
+"id": "320",
+"english": "I need to be accountable.",
+"chinese": "我需要负责任。"
+},
+{
+"id": "321",
+"english": "Let's take responsibility.",
+"chinese": "我们承担责任吧。"
+},
+{
+"id": "322",
+"english": "I need to learn from my mistakes.",
+"chinese": "我需要从错误中学习。"
+},
+{
+"id": "323",
+"english": "Let's improve ourselves.",
+"chinese": "我们提升自己吧。"
+},
+{
+"id": "324",
+"english": "I need to grow as a person.",
+"chinese": "我需要个人成长。"
+},
+{
+"id": "325",
+"english": "Let's be open to change.",
+"chinese": "我们接受改变吧。"
+},
+{
+"id": "326",
+"english": "I need to adapt to new situations.",
+"chinese": "我需要适应新情况。"
+},
+{
+"id": "327",
+"english": "Let's embrace challenges.",
+"chinese": "我们迎接挑战吧。"
+},
+{
+"id": "328",
+"english": "I need to step out of my comfort zone.",
+"chinese": "我需要走出舒适区。"
+},
+{
+"id": "329",
+"english": "Let's take risks.",
+"chinese": "我们冒险吧。"
+},
+{
+"id": "330",
+"english": "I need to be brave.",
+"chinese": "我需要勇敢。"
+},
+{
+"id": "331",
+"english": "Let's face our fears.",
+"chinese": "我们面对恐惧吧。"
+},
+{
+"id": "332",
+"english": "I need to overcome obstacles.",
+"chinese": "我需要克服障碍。"
+},
+{
+"id": "333",
+"english": "Let's persevere.",
+"chinese": "我们坚持吧。"
+},
+{
+"id": "334",
+"english": "I need to stay determined.",
+"chinese": "我需要保持决心。"
+},
+{
+"id": "335",
+"english": "Let's never give up.",
+"chinese": "我们永不放弃。"
+},
+{
+"id": "336",
+"english": "I need to keep pushing forward.",
+"chinese": "我需要继续前进。"
+},
+{
+"id": "337",
+"english": "Let's stay positive.",
+"chinese": "我们保持积极吧。"
+},
+{
+"id": "338",
+"english": "I need to look on the bright side.",
+"chinese": "我需要看到光明的一面。"
+},
+{
+"id": "339",
+"english": "Let's find the silver lining.",
+"chinese": "我们寻找一线希望吧。"
+},
+{
+"id": "340",
+"english": "I need to stay hopeful.",
+"chinese": "我需要保持希望。"
+},
+{
+"id": "341",
+"english": "Let's believe in ourselves.",
+"chinese": "我们相信自己吧。"
+},
+{
+"id": "342",
+"english": "I need to have faith.",
+"chinese": "我需要有信心。"
+},
+{
+"id": "343",
+"english": "Let's trust the process.",
+"chinese": "我们相信过程吧。"
+},
+{
+"id": "344",
+"english": "I need to be patient.",
+"chinese": "我需要耐心。"
+},
+{
+"id": "345",
+"english": "Let's take it one step at a time.",
+"chinese": "我们一步一步来吧。"
+},
+{
+"id": "346",
+"english": "I need to stay calm.",
+"chinese": "我需要保持冷静。"
+},
+{
+"id": "347",
+"english": "Let's breathe deeply.",
+"chinese": "我们深呼吸吧。"
+},
+{
+"id": "348",
+"english": "I need to relax my mind.",
+"chinese": "我需要放松心情。"
+},
+{
+"id": "349",
+"english": "Let's meditate.",
+"chinese": "我们冥想吧。"
+},
+{
+"id": "350",
+"english": "I need to find inner peace.",
+"chinese": "我需要找到内心的平静。"
+},
+{
+"id": "351",
+"english": "Let's practice mindfulness.",
+"chinese": "我们练习正念吧。"
+},
+{
+"id": "352",
+"english": "I need to live in the moment.",
+"chinese": "我需要活在当下。"
+},
+{
+"id": "353",
+"english": "Let's appreciate the little things.",
+"chinese": "我们欣赏小事吧。"
+},
+{
+"id": "354",
+"english": "I need to be grateful.",
+"chinese": "我需要感恩。"
+},
+{
+"id": "355",
+"english": "Let's count our blessings.",
+"chinese": "我们数数我们的福气吧。"
+},
+{
+"id": "356",
+"english": "I need to focus on what I have.",
+"chinese": "我需要专注于我所拥有的。"
+},
+{
+"id": "357",
+"english": "Let's avoid negativity.",
+"chinese": "我们避免消极吧。"
+},
+{
+"id": "358",
+"english": "I need to surround myself with positivity.",
+"chinese": "我需要让自己被积极包围。"
+},
+{
+"id": "359",
+"english": "Let's be kind to ourselves.",
+"chinese": "我们对自己友善吧。"
+},
+{
+"id": "360",
+"english": "I need to practice self-love.",
+"chinese": "我需要练习自爱。"
+},
+{
+"id": "361",
+"english": "Let's take care of our mental health.",
+"chinese": "我们照顾好自己的心理健康吧。"
+},
+{
+"id": "362",
+"english": "I need to seek help if needed.",
+"chinese": "我需要时寻求帮助。"
+},
+{
+"id": "363",
+"english": "Let's talk to someone.",
+"chinese": "我们找个人聊聊吧。"
+},
+{
+"id": "364",
+"english": "I need to express my feelings.",
+"chinese": "我需要表达我的感受。"
+},
+{
+"id": "365",
+"english": "Let's be open and honest.",
+"chinese": "我们坦诚相待吧。"
+},
+{
+"id": "366",
+"english": "I need to share my thoughts.",
+"chinese": "我需要分享我的想法。"
+},
+{
+"id": "367",
+"english": "Let's listen to each other.",
+"chinese": "我们互相倾听吧。"
+},
+{
+"id": "368",
+"english": "I need to be a good listener.",
+"chinese": "我需要成为一个好的倾听者。"
+},
+{
+"id": "369",
+"english": "Let's support one another.",
+"chinese": "我们互相支持吧。"
+},
+{
+"id": "370",
+"english": "I need to be there for my friends.",
+"chinese": "我需要为我的朋友提供支持。"
+},
+{
+"id": "371",
+"english": "Let's build strong relationships.",
+"chinese": "我们建立牢固的关系吧。"
+},
+{
+"id": "372",
+"english": "I need to invest in my friendships.",
+"chinese": "我需要投资我的友谊。"
+},
+{
+"id": "373",
+"english": "Let's spend quality time together.",
+"chinese": "我们一起度过美好时光吧。"
+},
+{
+"id": "374",
+"english": "I need to cherish my loved ones.",
+"chinese": "我需要珍惜我爱的人。"
+},
+{
+"id": "375",
+"english": "Let's show appreciation.",
+"chinese": "我们表达感激吧。"
+},
+{
+"id": "376",
+"english": "I need to say 'I love you' more often.",
+"chinese": "我需要更常说'我爱你'。"
+},
+{
+"id": "377",
+"english": "Let's make time for family.",
+"chinese": "我们为家人腾出时间吧。"
+},
+{
+"id": "378",
+"english": "I need to prioritize my relationships.",
+"chinese": "我需要优先考虑我的关系。"
+},
+{
+"id": "379",
+"english": "Let's resolve conflicts peacefully.",
+"chinese": "我们和平解决冲突吧。"
+},
+{
+"id": "380",
+"english": "I need to communicate effectively.",
+"chinese": "我需要有效沟通。"
+},
+{
+"id": "381",
+"english": "Let's find common ground.",
+"chinese": "我们找到共同点吧。"
+},
+{
+"id": "382",
+"english": "I need to be understanding.",
+"chinese": "我需要理解他人。"
+},
+{
+"id": "383",
+"english": "Let's forgive and move on.",
+"chinese": "我们原谅并继续前进吧。"
+},
+{
+"id": "384",
+"english": "I need to let go of grudges.",
+"chinese": "我需要放下怨恨。"
+},
+{
+"id": "385",
+"english": "Let's focus on the future.",
+"chinese": "我们专注于未来吧。"
+},
+{
+"id": "386",
+"english": "I need to learn from the past.",
+"chinese": "我需要从过去中学习。"
+},
+{
+"id": "387",
+"english": "Let's make better choices.",
+"chinese": "我们做出更好的选择吧。"
+},
+{
+"id": "388",
+"english": "I need to take control of my life.",
+"chinese": "我需要掌控我的生活。"
+},
+{
+"id": "389",
+"english": "Let's set boundaries.",
+"chinese": "我们设定界限吧。"
+},
+{
+"id": "390",
+"english": "I need to protect my energy.",
+"chinese": "我需要保护我的能量。"
+},
+{
+"id": "391",
+"english": "Let's say 'no' when necessary.",
+"chinese": "我们需要时说'不'。"
+},
+{
+"id": "392",
+"english": "I need to prioritize my well-being.",
+"chinese": "我需要优先考虑我的健康。"
+},
+{
+"id": "393",
+"english": "Let's take care of our bodies.",
+"chinese": "我们照顾好自己的身体吧。"
+},
+{
+"id": "394",
+"english": "I need to eat healthier.",
+"chinese": "我需要吃得更健康。"
+},
+{
+"id": "395",
+"english": "Let's exercise regularly.",
+"chinese": "我们定期锻炼吧。"
+},
+{
+"id": "396",
+"english": "I need to get enough sleep.",
+"chinese": "我需要充足的睡眠。"
+},
+{
+"id": "397",
+"english": "Let's drink more water.",
+"chinese": "我们多喝水吧。"
+},
+{
+"id": "398",
+"english": "I need to reduce stress.",
+"chinese": "我需要减轻压力。"
+},
+{
+"id": "399",
+"english": "Let's practice self-care.",
+"chinese": "我们练习自我护理吧。"
+},
+{
+"id": "400",
+"english": "I need to love myself more.",
+"chinese": "我需要更爱自己。"
+}
+]
